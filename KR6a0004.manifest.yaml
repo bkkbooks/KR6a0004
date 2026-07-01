@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6a0004/v1
+canonical_location: https://kanripo.org/bkk/KR6a0004/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 七佛父母姓字經
+  identifiers:
+    alt_id:
+    - T01n0004
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0004.xml
+    old_id: T01n0004
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0004_000.yaml, hash: 'sha256:b9ab8064eb287c7fe53e6397ba8b1893780fc0c768acc7652f756661afc7a378'}
+  - {seq: 1, filename: KR6a0004_001.yaml, hash: 'sha256:fac664a3a0877e1fa7c6716e4badb69e5ba4023fb78f2387e07e21adf63e153f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0004_001.markers.yaml, hash: 'sha256:ae0cef0009b97bf9277b4d0d252320dedc452b636c525fea33c7bdae3ca25afa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0004_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1412
+  label: 七佛父母姓字經
+  type: juan
+  level: 1
+hash: sha256:edc531ad6666c1ada6c999f604bfcf1bf6dc34a567788677b01f6327b81f391e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
