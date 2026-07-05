@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0004_000.yaml, hash: 'sha256:b9ab8064eb287c7fe53e6397ba8b1893780fc0c768acc7652f756661afc7a378'}
-  - {seq: 1, filename: KR6a0004_001.yaml, hash: 'sha256:fac664a3a0877e1fa7c6716e4badb69e5ba4023fb78f2387e07e21adf63e153f'}
+  - {seq: 1, filename: KR6a0004_001.yaml, hash: 'sha256:c2e2674df7951167b55267c395fcdb8ae799d5be92072159373125ec08ddda43'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0004_001.markers.yaml, hash: 'sha256:ae0cef0009b97bf9277b4d0d252320dedc452b636c525fea33c7bdae3ca25afa'}
+  - {seq: 0, role: markers, filename: assets/KR6a0004_000.markers.yaml, hash: 'sha256:870ef5a26c921dd4083cb3b5c03f4d79378760650c38882fcfa0e3b63581561c'}
+  - {seq: 1, role: markers, filename: assets/KR6a0004_001.markers.yaml, hash: 'sha256:b5be333c7fd1fd764320eab54040ada0176ec84c0413f97f466776f057739604'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 七佛父母姓字經
   type: juan
   level: 1
-hash: sha256:edc531ad6666c1ada6c999f604bfcf1bf6dc34a567788677b01f6327b81f391e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:18d4784bf95745bb57e42fa2e85668eabf2a419cc74af796621872fb87d3ecc1
