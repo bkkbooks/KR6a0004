@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0004/v1
 canonical_location: https://kanripo.org/bkk/KR6a0004/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 七佛父母姓字經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0004_000.yaml, hash: 'sha256:b9ab8064eb287c7fe53e6397ba8b1893780fc0c768acc7652f756661afc7a378'}
-  - {seq: 1, filename: KR6a0004_001.yaml, hash: 'sha256:c2e2674df7951167b55267c395fcdb8ae799d5be92072159373125ec08ddda43'}
+  - {seq: 1, filename: KR6a0004_001.yaml, hash: 'sha256:b00965e3409d7f3403c5fff361f2fd0d7d2146889d9b26734af0a8323d2db4d4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0004_000.markers.yaml, hash: 'sha256:870ef5a26c921dd4083cb3b5c03f4d79378760650c38882fcfa0e3b63581561c'}
-  - {seq: 1, role: markers, filename: assets/KR6a0004_001.markers.yaml, hash: 'sha256:b5be333c7fd1fd764320eab54040ada0176ec84c0413f97f466776f057739604'}
+  - {seq: 1, role: markers, filename: assets/KR6a0004_001.markers.yaml, hash: 'sha256:d918110940939f6fdb564cfb641bcf06d8844a351414a3b86d77fc00e566a25d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 七佛父母姓字經
   type: juan
   level: 1
-hash: sha256:18d4784bf95745bb57e42fa2e85668eabf2a419cc74af796621872fb87d3ecc1
+hash: sha256:39617ec2c38226adcc6f3c52fb1f3cefc983a273b376188b4219abeabc33a638
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
