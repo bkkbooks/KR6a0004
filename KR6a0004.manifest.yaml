@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0004_000.yaml, hash: 'sha256:b9ab8064eb287c7fe53e6397ba8b1893780fc0c768acc7652f756661afc7a378'}
   - {seq: 1, filename: KR6a0004_001.yaml, hash: 'sha256:b00965e3409d7f3403c5fff361f2fd0d7d2146889d9b26734af0a8323d2db4d4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0004_000.markers.yaml, hash: 'sha256:870ef5a26c921dd4083cb3b5c03f4d79378760650c38882fcfa0e3b63581561c'}
+  - {seq: 0, role: markers, filename: assets/KR6a0004_000.markers.yaml, hash: 'sha256:7c842171ab4a151507d9f3fed2ca4bf705c9d0c3b8fd383bb0e676ed5b132549'}
   - {seq: 1, role: markers, filename: assets/KR6a0004_001.markers.yaml, hash: 'sha256:d918110940939f6fdb564cfb641bcf06d8844a351414a3b86d77fc00e566a25d'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 七佛父母姓字經
   type: juan
   level: 1
-hash: sha256:39617ec2c38226adcc6f3c52fb1f3cefc983a273b376188b4219abeabc33a638
+hash: sha256:f246f97429033c41d1541b84cf108ac0c289ddfa2104b8a8916b5ad90bb3b143
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
